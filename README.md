@@ -6,7 +6,7 @@ Készítse el a következő WPF alkalmazás felületét:
 ![image](https://user-images.githubusercontent.com/6060514/112133483-0b0e2e00-8bcc-11eb-9bad-0df9061d7709.png)  
 
 b)  
-A feladat megoldása során használja a model rétegbe lévő Fridge osztályt.  
+A feladat megoldása során használja a model rétegbe lévő Fridge osztályt. Ne feledje, hogy a Fridge.cs fájlban a namespacet módosítania kell!  
 Ha a felhasználó bevételez egy hűtőszekrényt a raktárba, jelenjen meg a „József bevételez egy hűtőszekrényt a raktárba.” üzenet, ha a kiadás gombot választja a felhasználó, jelenjen meg a „József kiad egy hűtőszekrényt a raktárból.” szöveg!  
 Törlés gomb választása esetén törölje a szöveget!  
 c)  
