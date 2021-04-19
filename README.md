@@ -10,7 +10,7 @@ A feladat megoldása során használja a model rétegbe lévő Fridge osztályt.
 Ha a felhasználó bevételez egy hűtőszekrényt a raktárba, jelenjen meg a „József bevételez egy hűtőszekrényt a raktárba.” üzenet, ha a kiadás gombot választja a felhasználó, jelenjen meg a „József kiad egy hűtőszekrényt a raktárból.” szöveg!  
 Törlés gomb választása esetén törölje a szöveget!  
 c)  
-Fejlessze tovább az osztályt, hogy nyilvántartsa a raktárba lévő hűtőszekrények számát! Bevételezéskor növelje a raktárba lévő hűtőszekrények számát, kiadáskor csökkentse a raktárba lévő hűtőszekrények számát!  
+Fejlessze tovább az osztályt, hogy nyilvántartsa a raktárba lévő hűtőszekrények számát! Bevételezéskor növelje a raktárba lévő hűtőszekrények számát, kiadáskor csökkentse a raktárba lévő hűtőszekrények számát! Ilyenkor is meg tudja jeleníteni a raktárban lévő darabszámot!  
 
 
 
