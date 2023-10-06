@@ -11,6 +11,8 @@ Ha a felhasználó bevételez egy hűtőszekrényt a raktárba, jelenjen meg a �
 Törlés gomb választása esetén törölje a szöveget!  
 c)  
 Fejlessze tovább az osztályt, hogy nyilvántartsa a raktárba lévő hűtőszekrények számát! Bevételezéskor növelje a raktárba lévő hűtőszekrények számát, kiadáskor csökkentse a raktárba lévő hűtőszekrények számát! Ilyenkor is meg tudja jeleníteni a raktárban lévő darabszámot!  
+d)
+A raktárból nem lehet több hütőszekrényt kivenni mint amennyi benne van! A kivételezés gombja ne legyen elérhető, ha a hűtőszekrények száma elfogyott a raktárból. A gomb legyen elérhető ha van hűtőszekrény a raktárba!
 
 
 
